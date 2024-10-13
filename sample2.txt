@@ -1,1 +1,2 @@
 this is new file
+git is easy now
