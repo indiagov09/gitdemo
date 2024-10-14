@@ -3,7 +3,7 @@ added some more lines
 
 
 ok thank you
-// who told you to remove yandex code ? @TL please get it added again
-/*I removed yandex search engine*/
+
+msn search engine
 
 google search engine
