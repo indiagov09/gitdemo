@@ -4,10 +4,6 @@ added some more lines
 
 ok thank you
 
-Yandex search engine
-{
-more code goes here
-}
-
+/*I removed yandex search engine*/
 
 google search engine
