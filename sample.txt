@@ -4,10 +4,6 @@ added some more lines
 
 ok thank you
 
-<<<<<<< HEAD
 Yandex search engine
-=======
-msn search engine
->>>>>>> 8b7c94ee29b29774ac09f84eb84850bfd3482a91
 
 google search engine
