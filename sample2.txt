@@ -1,0 +1,25 @@
+this is new file
+git is easy now
+
+yahoo search engine
+
+
+keyboard keyboard
+google google google
+
+90909090
+2887
+
+
+eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJjcmVkZW50aWFsc0B3cGl0cy5jb20iLCJpYXQiOjE3MjkwNTg2MjYsImV4cCI6MTcyOTExMjYyNn0.TNLQm3f71Zn9QW2e2Uheq424nLyeW-ITqb-CaiLmsARUs3_Z9vpVqjtXCb1lxyS71Rnp9x1JqZ3zV9GBtCQrpw
+
+
+
+https://bssproxy01.neotel.nr/api/postpaid/account/get/available/with/offered/balance?imsi=&msisdn=6749991011
+https://bssproxy01.neotel.nr/api/postpaid/account/get/available/with/offered/balance?imsi=&msisdn=6749991011
+http://172.17.1.11:9699/api/prepaid/account/get/available/with/offered/balance?imsi=&msisdn=6749991011
+
+https://bssproxy01.neotel.nr/api/postpaid/account/get/available/with/offered/balance
+
+
+http://172.17.1.11:9699/api/prepaid/account/get/available/with/offered/balance?imsi=&msisdn=6749991011
