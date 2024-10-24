@@ -1,5 +1,7 @@
 import newmonth;
-newmonth obj = new newmonth(;
-obj.newmonthreject(;
 
+newmonth newmonthObj = new newmonth();
+newmonthObj.newmonthreject();
+
+//do for pastel also same.
 this is new day
