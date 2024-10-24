@@ -1,3 +1,8 @@
+import newday;
+
+newday obj = new newday();
+obj.acceptnewday();
+
 oil pastel colors are the best colors
 
 they are rich and cool.
