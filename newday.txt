@@ -1,1 +1,6 @@
+import newmonth;
+newmonth newmonthObj = new newmonth();
+newmonthObj.newmonthreject();
+
+//do for pastel also same.
 this is new day
