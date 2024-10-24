@@ -1,4 +1,5 @@
 import newmonth;
+
 newmonth newmonthObj = new newmonth();
 newmonthObj.newmonthreject();
 
