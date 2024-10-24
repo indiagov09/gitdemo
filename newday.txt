@@ -1,1 +1,5 @@
+import newmonth;
+newmonth obj = new newmonth(;
+obj.newmonthreject(;
+
 this is new day
