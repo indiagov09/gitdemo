@@ -1,3 +1,4 @@
+new day welcomes you
 import newyear;
 import newmonth;
 
